@@ -1,0 +1,29 @@
+Account:Your subscription to a networked computer system
+Address:A character or group of characters that identify a register, a location or some other data source or destination
+Algorithm:A set of rules for solving a problem in a given number of steps
+Booting:Turning on your computer
+Bug:An error
+Data:Information suitable for communication, interpretation or processing by a computer
+Destination:The target location where data or information is being sent
+Export:Process of taking data from one program or computer to another
+Expression:Combination of one or more data items
+Execution:Course of action
+File:A set of data stored on the computer
+Freeware:Software that is distributed for free
+Firewall:Helps prevent unauthorized access to a network
+Git:A distributed version control system
+Instruction:A statement that specifies an operation to be performed
+Job:A set of data that defines a unit of work for a computer
+Message: A descrete unit of communication
+Network:A group of computers which are connected together and which communicate with one another for a common purpose
+Program:A set of actions or instructions that a machine is capable of interpreting and executing
+Recovery:The process by which data bases are rebuilt after a system fails
+Routing:The process of finding a path over which a packet can travel to reach its destination
+Spam:Unwanted repetative message
+Software:Computer programs that perform various tasks
+Source:Location from which information or required data is gathered
+Statement:A definite or clear expression
+Task:A separately dispatchable function on a computer
+Windows:A trademark of Microsoft Corporation for a software product 
+Username:Account name or user ID
+Virus:A program that can make a copy of itself without you necessarily being aware of it
